@@ -54,12 +54,5 @@ Upon launching the game, you will be greeted with a menu where you can choose to
 
 Contributions to the Minesweeper game are welcome! If you have suggestions for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the Python and Tkinter communities for providing extensive documentation and resources.
-- Inspiration for this game comes from the classic Minesweeper game that has been a staple on many computer systems for decades.
 
