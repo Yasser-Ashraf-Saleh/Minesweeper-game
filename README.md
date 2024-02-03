@@ -20,7 +20,7 @@ To play the Minesweeper game, you need to have Python installed on your system. 
 1. First, clone the repository to your local machine:
 
     ```
-    git clone https://github.com/yourusername/minesweeper-python.git
+    git clone https://github.com/Yasser-Ashraf-Saleh/minesweeper-python.git
     ```
 
 2. Navigate to the cloned directory:
